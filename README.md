@@ -1,16 +1,19 @@
-# note
+# Note It
 
-A new Flutter project.
+Note App in Flutter.
 
-## Getting Started
+Note App with a lot of features like authentication and database using Rest Api and firebase.
+ability to share notes and add categories and other features.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Created By 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Ahmad El-Baz](https://github.com/ahmadelbaz) [Ahmad El-Baz](https://www.facebook.com/ahmed.elbaz11) [YouTube](youtube.com/c/ahmeedelbaz)
